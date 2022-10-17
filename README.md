@@ -56,7 +56,7 @@ Below is some of the data required by AMC;
 
 
 ### ER diagram for AMC
-![erd](https://github.com/kwabenasark/AMC-theatre-database--MySql/ERD.png "Logo Title Text 1")
+![erd](https://github.com/KwabenaSark/AMC-theatre-database--MySql/ERD.png "Logo Title Text 1")
  
 
 #### Data Dictionary
