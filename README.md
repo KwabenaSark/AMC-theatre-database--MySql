@@ -250,14 +250,18 @@ The database tables of AMC theatre are designed by the following process;
 
 
 
-Identified derived data
+#### Identified derived data
 To provide fresh insights, existing data points are transformed to produce derived data. For example combining Ticket sales data to customer data . 
 Represented below
+```MySQL
 Select tickets.ticket_id, customers.id, customers.age
 From tickets
 Inner join customers
 On tickets.ticket_id =customers.customer_id 
 Order by age;
+```
+
+
 
 
 
