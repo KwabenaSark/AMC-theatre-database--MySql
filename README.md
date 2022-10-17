@@ -1,5 +1,5 @@
 # AMC-theatre-database--MySql
-## A critical evaluation the Rolfe D model
+## A critical evaluation using the Rolfe D model
 ### What(Description) 
 Considering all the factors for this, I was required to demonstrate my understanding of this model by producing a database for a company of my choosing. My chosen company ‘AMC theatre’ is theatre chain company. An example of the type of data it holds are; customers, payments and tickets. Some of its transactions are; Recording movies details and Keeping and tracking payment details.
 Information was gathered from multi- sources to identify its data, transactions and entities. Furthermore, an ER diagram was produced to structure how the database will be designed and finally, data was inputted into the created database. 
