@@ -261,6 +261,18 @@ On tickets.ticket_id =customers.customer_id
 Order by age;
 ```
 
+#### Potential Change that could be implemented into AMC theatre database;
+As the Covid-19 vaccination are being administrated to the public, AMC should be able to keep track of which customers are vaccinated and which ones are not, so as to not further spread the virus. As a result of this, vaccinated customers can enjoy the theatre without a mask and unvaccinated will have to proceed with a mask. By Adding an extra column to the customers table in the AMC database, they will be able to keep records of Vaccinated and unvaccinated customers.
+##### Rationale
+Adding a ‘Vaccination’ column to the customers table will enable AMC to easily categorize their vaccinated and unvaccinated customers in the database of AMC and also for their safety.
+##### Demonstration 
+using the alter command to change the initial database tables
+```MySQL
+Alter Table customers
+Add vaccination varchar(30);
+```
+
+
 
 
 
