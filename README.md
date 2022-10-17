@@ -272,9 +272,9 @@ Alter Table customers
 Add vaccination varchar(30);
 ```
 
-#### Data Visualization
+### Data Visualization
 
-![erd](https://github.com/KwabenaSark/AMC-theatre-database--MySql/blob/main/tableau.png "Logo Title Text 1")
+![tableau](https://github.com/KwabenaSark/AMC-theatre-database--MySql/blob/main/tableau.png "Logo Title Text 1")
 
 
 
